@@ -1,9 +1,9 @@
 
-require 'pry
+
+
 def fizzbuzz(int)
   if int % 3 == 0 # if the number int is divisible by 3
-    "Fizzbinding.pry" # Go fizz
-    
+    "Fizz" # Go fizz
   end
 end
  
